@@ -1,0 +1,20 @@
+#include<iostream>
+int main()
+{
+int = 100;
+cout<<"The Prime Numbers within 100"
+for(i=2;i<=100;i++)
+	{
+	bool is prime = true;
+	for(j=2;j*j<=100;j++)
+	 {
+	 if(i % j == 0)
+	 {
+	 is prime = false
+	 break;
+	}
+	}
+	if (is prime)cout<<i<<endl
+	}
+return 0;
+}
