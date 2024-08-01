@@ -6,6 +6,12 @@ I recently compeleted my MSC.cs
 
   HTML| CSS| C++| Python| PHP
 
+
+  -✨ I Learning ...
+
+    Oops | Cucumber Framework | Service Now
+
+  
 -🔭 I’m current status....
 
 
@@ -30,8 +36,12 @@ I recently compeleted my MSC.cs
   Email:kalwathi311@gmail.com
 
 - 😄 Pronouns: ...
- He/Him
+
+ 
+   He/Him
      
 - ⚡ Fun fact: ...
-Am Definitely Not a CAT person
+
+
+  Am Definitely Not a CAT person
 
